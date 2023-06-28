@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "Yoda-alpha"
+  name: "Yoda-alpha1"
   description: "Ui Develpoer"
   annotations:
     github.com/project-slug: MVR-Kumar/Yoda-alpha
