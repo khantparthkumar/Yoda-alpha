@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Yoda-alpha"
+  description: "Ui Develpoer"
+  annotations:
+    github.com/project-slug: MVR-Kumar/Yoda-alpha
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "group:default/yoda"

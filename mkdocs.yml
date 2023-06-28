@@ -1,0 +1,8 @@
+site_name: "Yoda-alpha"
+site_description: "Ui Develpoer"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
